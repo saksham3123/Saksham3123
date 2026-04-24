@@ -14,10 +14,15 @@ A passionate Computer Science student focused on building impactful tech solutio
 ## 🛠️ Tech Stack
 
 Languages: JavaScript (ES6+), C++, Python
+
 Backend: Node.js, Express.js, REST APIs, Socket.io
+
 Frontend: React.js, HTML5, CSS3, Tailwind CSS
+
 Databases: MongoDB, PostgreSQL, MySQL, Redis
+
 Cloud: AWS (Certified Cloud Practitioner)
+
 Tools: Git, GitHub, Postman, VS Code
 
 ---
