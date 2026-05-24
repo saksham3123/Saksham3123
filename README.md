@@ -55,28 +55,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [💬 NexusChat](https://github.com/saksham3123/nexuschat) | Real-time messaging app — private & group chats, sub-100ms delivery, JWT auth, presence tracking | Node.js, Socket.io, Redis, MongoDB, React |
-| [📈 Stock Forecasting App](https://github.com/saksham3123) | AI-powered stock & crypto price prediction web app | Python, React *(in progress)* |
-| [🏥 MantraCare](https://github.com/saksham3123/mini_project-cura) | Healthcare mini project | JavaScript |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saksham3123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham3123&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saksham3123&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 ### 🎯 Currently Focused On
 
